@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">atras</string>
+    <string name="settings_general">General</string>
+    <string name="settings_game">Juego</string>
+    <string name="play">Jugar</string>
+    <string name="settings">Ajustes</string>
+    <string name="MC_select">Código Morse estándar</string>
+    <string name="language_select">Idioma</string>
+    <string name="cheat_sheet">Guía</string>
+    <string name="editor">Editor</string>
+    <string name="new_mc">nuevo</string>
+    <string name="delete_mc">borrar</string>
+    <string name="select_mc">seleccionar</string>
+    <string name="cancel">cancelar</string>
+    <string name="save">guardar</string>
+    <string name="edit_mc">Editar Caracter Morse</string>
+    <string name="edit_rep">Editar Representación</string>
+    <string name="edit_seq">Editar Sequencia</string>
+    <string name="invalid_input">Entrada Invalida</string>
+    <string name="add_new_morse_char">Añadir Caracter Morse Nuevo</string>
+    <string name="enter_character">Caracter</string>
+    <string name="duplicated_entry">Entrada Duplicada</string>
+    <string name="enter_morse_code">Secuencia</string>
+    <string name="char_added">Caracter Añadido</string>
+    <string name="delete_title">Eliminar</string>
+    <string name="char_deleted">Caracter Eliminado</string>
+    <string name="edit_del">Eliminar</string>
+    <string name="theme_select">Estilo</string>
+    <string name="error_empty_name">¡El nombre estándar no puede estar vacío!</string>
+    <string name="ok_new_std">"¡Nuevo estándar creado! "</string>
+    <string name="error_std_exists">"¡El estándar ya existe! "</string>
+    <string name="msg_create_mc">Crear nuevo código Morse</string>
+    <string name="error_no_stds">"¡No hay estándares disponibles! "</string>
+    <string name="msg_select_std_del">"Seleccione un estándar para eliminar "</string>
+    <string name="error_one_std">"Al menos un estándar debe permanecer "</string>
+    <string name="msg_confirm_del">"Confirmar eliminación "</string>
+    <string name="msg_are_you_sure">¿Estás seguro de que quieres eliminar</string>
+    <string name="error_std_404">"El estándar no existe "</string>
+    <string name="ok_std_deleted">"¡Estándar eliminado! "</string>
+    <string name="msg_select_std_edit">"Seleccione un estándar para editar "</string>
+    <string name="ok_updated">actualizada!</string>
+    <string name="enable_notifications">Habilitar notificaciones</string>
+    <string name="not_word_of_the_day">¡Palabra del día!</string>
+</resources>

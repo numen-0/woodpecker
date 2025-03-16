@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">atzera</string>
+    <string name="settings_general">Orokorrak</string>
+    <string name="settings_game">Jokoa</string>
+    <string name="play">Jolastu</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="MC_select">Morse kode estandarra</string>
+    <string name="language_select">Hizkuntza</string>
+    <string name="cheat_sheet">Gida</string>
+    <string name="editor">Editorea</string>
+    <string name="new_mc">berria</string>
+    <string name="delete_mc">ezabatu</string>
+    <string name="select_mc">hautatu</string>
+    <string name="cancel">"utzi "</string>
+    <string name="save">gorde</string>
+    <string name="edit_mc">Morse Karakterea Editatu</string>
+    <string name="edit_rep">Errepresentazioa Editatu</string>
+    <string name="edit_seq">Sekuentzia Editatu</string>
+    <string name="invalid_input">Sarrera Okerra</string>
+    <string name="add_new_morse_char">Morse Karaktere Berria Gehitu</string>
+    <string name="enter_character">Karakterea</string>
+    <string name="duplicated_entry">Sarrera Errepikatua</string>
+    <string name="enter_morse_code">Sekuentzia</string>
+    <string name="char_added">Karakterea Gehituta</string>
+    <string name="delete_title">Ezabatu</string>
+    <string name="char_deleted">Karakterea Ezabatuta</string>
+    <string name="edit_del">Ezabatu</string>
+    <string name="theme_select">Estiloa</string>
+    <string name="error_empty_name">Estandar izena utzik!</string>
+    <string name="ok_new_std">Estandar berria sortu da!</string>
+    <string name="error_std_exists">Dagoeneko estandarra existitzen da!</string>
+    <string name="msg_create_mc">"Sortu Morse Kode Berria "</string>
+    <string name="error_no_stds">Ez daude estandarrik!</string>
+    <string name="msg_select_std_del">Hautatu ezabatzeko estandar bat</string>
+    <string name="error_one_std">Gutxienez estandar bat mantendu behar da</string>
+    <string name="msg_confirm_del">"Berretsi Ezabatu "</string>
+    <string name="msg_are_you_sure">Ziur zaude ezabatu nahi duzula</string>
+    <string name="error_std_404">"Estandarra ez da existitzen "</string>
+    <string name="ok_std_deleted">"Estandarra ezabatu da! "</string>
+    <string name="msg_select_std_edit">"Hautatu estandar bat editatzeko "</string>
+    <string name="ok_updated">eguneratua!</string>
+    <string name="enable_notifications">Gaitu notifikazioak</string>
+    <string name="not_word_of_the_day">Eguneko Hitza!</string>
+</resources>

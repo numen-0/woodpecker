@@ -1,0 +1,10 @@
+hola
+mundo
+morse
+idioma
+mensaje
+patata
+radio
+baliza
+alerta
+transmitir

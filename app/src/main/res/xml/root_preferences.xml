@@ -1,0 +1,42 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="general"
+        app:title="@string/settings_general">
+
+        <ListPreference
+            app:defaultValue="en"
+            app:entries="@array/supported_languages"
+            app:entryValues="@array/supported_languages_values"
+            app:key="language"
+            app:title="@string/language_select"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="enable_notifications"
+            app:title="@string/enable_notifications"
+            app:defaultValue="false" />
+
+        <ListPreference
+            app:key="theme"
+            app:title="@string/theme_select"
+            app:defaultValue="system"
+            app:entries="@array/theme_options"
+            app:entryValues="@array/theme_values"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/settings_game">
+
+        <ListPreference
+            app:defaultValue="International Morse Code"
+            app:entries="@array/supported_MC"
+            app:entryValues="@array/supported_MC_values"
+            app:key="morse_code"
+            app:title="@string/MC_select"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

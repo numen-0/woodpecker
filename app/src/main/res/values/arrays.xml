@@ -1,0 +1,32 @@
+<resources>
+    <string-array name="supported_languages">
+        <item>English</item>
+        <item>Español</item>
+        <item>Euskera</item>
+    </string-array>
+    <string-array name="supported_languages_values">
+        <item>en</item>
+        <item>es</item>
+        <item>eu</item>
+    </string-array>
+
+    <string-array name="theme_options">
+        <item>System Default</item>
+        <item>Light Mode</item>
+        <item>Dark Mode</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>system</item>
+        <item>light</item>
+        <item>dark</item>
+    </string-array>
+
+    <string-array name="supported_MC">
+        <item>International Morse Code</item>
+        <item>Continental Morse Code</item>
+    </string-array>
+    <string-array name="supported_MC_values">
+        <item>International Morse Code</item>
+        <item>Continental Morse Code</item>
+    </string-array>
+</resources>

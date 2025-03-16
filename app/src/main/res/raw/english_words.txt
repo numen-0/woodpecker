@@ -1,0 +1,10 @@
+hello
+world
+morse
+code
+message
+potato
+radio
+beacon
+alert
+transmit
